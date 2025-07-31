@@ -10,7 +10,7 @@ A real-time chat application built with the MERN stack (MongoDB, Express.js, Rea
 - Responsive UI styled with TailwindCSS
 - RESTful API backend with Express and Node.js
 - Data persistence with MongoDB
-- Environment configuration using `.env` files
+
 
 ## Project Structure
 
