@@ -27,10 +27,4 @@ A real-time chat application built with the MERN stack (MongoDB, Express.js, Rea
 - MongoDB instance (local or cloud)
 - Cloudinary account for image uploads
 
-### Installation
-
-1. Clone the repo
-
-```bash
-git clone https://github.com/modijiyash/PRODIGY_FS_04.git
 
